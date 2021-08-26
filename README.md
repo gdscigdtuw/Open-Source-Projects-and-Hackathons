@@ -207,6 +207,5 @@
 
 <div align="center">
 	 <hr> 
-	<br/>
 	Happy Contributing! ♥️
 </div>
