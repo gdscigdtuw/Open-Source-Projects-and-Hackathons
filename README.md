@@ -129,7 +129,7 @@
   
 ###  1- Alibaba Summer of Code [Link](https://alibaba.github.io)  
   >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.  
-	 >- On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.  
+      On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.  
 
 <br/>  
   
@@ -137,7 +137,7 @@
   
 ### 1- InOut Hackathon  [Link](https://hackinout.co)
    >- ***InOut*** prides itself on being India’s biggest community hackathon.  
-	 >- Since its inception in 2015, InOut has been a platform where technology leaders and the brightest minds come together to collaborate on building tools that solve real problems.   
+       Since its inception in 2015, InOut has been a platform where technology leaders and the brightest minds come together to collaborate on building tools that solve real problems.   
 
 <br/>  
   
@@ -158,27 +158,24 @@
  
 <br/>  
    
-# <u> :motorcycle: `October` :dart: </u>  
-  
-- ## :high_brightness: Open Source Event          
+# <u> `October` </u>       
       
-    ### 1- Hacktoberfest [Link](https://hacktoberfest.digitalocean.com)  
-        countdown start  
+  ### 1- Hacktoberfest [Link](https://hacktoberfest.digitalocean.com)  
    >- ***Hacktoberfest*** is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.  
+  
   ### 2- Pycon [Link](https://in.pycon.org/2020/)  
    >- ***Pycon*** is the premier conference in India on using and developing the Python programming language.  
-  ###  3- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)  
-	    Spring Program  
+  
+  ###  3- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)   
   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.  
+  
   ###  4- Halite AI Bot Challenge [Link](https://halite.io/)  
-	    Program Start  
   >- ***Halite*** is an artificial intelligence challenge, created by Two Sigma. Participants code bots using the programming language of their choice to compete in an original online multiplayer game.  
   
   ###  5- NJACK Winter of Code [Link](https://njackwinterofcode.github.io/)  
-		 Program Announced  
   >- ***NJACK Winter of Code*** is an initiative by NJACK, IIT Patna, targeted at students who have never participated in Free or Open Source Software (FOSS) development before, as well as at those who have already become an expert in Open Source Development and are currently contributing to projects of any domain, say Web, Mobile, Machine Learning, Blockchain, IoT etc.  
 
-<br>  
+<br/>  
   
 # <u> :red_car: `November` :trophy: </u>  
   
