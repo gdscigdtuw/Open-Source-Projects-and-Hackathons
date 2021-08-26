@@ -78,10 +78,10 @@
 ###  1- [ RARE Technologies Student Incubator Programme ](https://rare-technologies.com/incubator/#details) 
   >- Our student Incubator offers a unique mix of academic mentorship, hand-on project work and technical training. It is a highly selective program where you will be mentored by an industry expert as you develop a pragmatic solution to a real-world problem using machine learning.  
   
-  ###  [ 2- Igalia Web Engines Hackfest ](https://www.igalia.com/2020/02/03/The-2020-Web-Engines-Hackfest-is-happening-in-May.html)     
+  ###  2- [ Igalia Web Engines Hackfest ](https://www.igalia.com/2020/02/03/The-2020-Web-Engines-Hackfest-is-happening-in-May.html)     
   >- ***Igalia*** has been hosting the Web Engines Hackfest every year since 2009. And every year the event has grown bigger, with an increasing number of participants and broader areas of interest.  
   
-  ###  [ 3- BOSS - Bountiful Open Source Summer ](https://lab.codingblocks.com/boss)   
+  ###  3- [ BOSS - Bountiful Open Source Summer ](https://lab.codingblocks.com/boss)   
   >- Each year we teach hundreds of students coding, programming and software development. Over the past five years (we started off in April 2014), we have helped more than 3000 students gain expertise in Android, Web, Data Science and more.  
 	    BOSS 2019 is open to any _**Indian Student**_. You could be a student enrolled in any school or a college or university.  
   
@@ -92,34 +92,34 @@
 ###  1- [ Season of Docs ](https://developers.google.com/season-of-docs)
   >- ***Google Season of Docs*** is a program giving technical writers an opportunity to contribute to open source projects, by paying them a three month stipend and facilitating connections between writers and projects. As a platform that’s all about supporting the open source community, we think this is fantastic, because a lot of open source projects really need documentation help.  
   
-  ###  [ 2-ESA Summer of Code in Space ](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOCIS_The_ESA_Summer_of_Code_in_Space)  
+  ###  2-[ ESA Summer of Code in Space ](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOCIS_The_ESA_Summer_of_Code_in_Space)  
   >- ***ESA Summer of Code in Space*** (SOCIS) is a program run by the European Space Agency that focuses on bringing student developers into open source software development for space applications. Students work with a mentoring organization (with potential support from ESA experts) on a 3 month programming project during their summer break.  
 
- ###  [ 3- OSS World Challenge ](https://www.oss.kr/en_oss_world_challenage)            
+ ###  3- [ OSS World Challenge ](https://www.oss.kr/en_oss_world_challenage)            
 >- ***Open Source Software World Challenge*** is an annual competition hosted by the Ministry of Science, ICT and Future Planning of Korea.  
 	  Open to anyone national interested in open source software. >- Bring together the gems of open source developers to cultivate developing-skills through cooperated projects which will eventually expand the open source minds/spirit and practices among community.  
 
- ### [ 4- ACM MM Open Source Software Competition ](http://sigmm.org/Resources/software/ossc)  
+ ### 4- [ ACM MM Open Source Software Competition ](http://sigmm.org/Resources/software/ossc)  
   >-  The Open Source Software Competition is an important part of the ***ACM Multimedia program***. The competition, now in its 17th edition, is intended to celebrate, encourage and promote the contribution of researchers, software developers and educators to advance the field by providing the community with implementations of codecs, middleware, frameworks, toolkits, libraries, multimedia players, applications, authoring tools, and other multimedia software. 
 
-  ### [ 5- MLH Fellowship ](https://fellowship.mlh.io)  
+  ### 5- [ MLH Fellowship ](https://fellowship.mlh.io)  
   >-  The MLH Fellowship is an internship alternative for software engineers. Instead of working on a project for just one company, you'll contribute to Open Source projects that are used by companies around the world. You'll collaborate with a group of 10 students under the guidance of a professional mentor whose only job is to help you successfully contribute.  
   
-  ### [ 6- Jenkins UI/UX Hackfest ](https://www.jenkins.io/events/online-hackfest/2020-uiux/)  
+  ### 6- [ Jenkins UI/UX Hackfest ](https://www.jenkins.io/events/online-hackfest/2020-uiux/)  
   >- UI/UX Online Hackfest is an online event. The goal to improve the Jenkins user experience, including but not limited to user interface and documentation. We also invite participants to share experiences about Jenkins and to participate in UX testing. The event will have the Jenkins is the Way theme. The most active contributors will get special edition swag and other prizes, see below  
 
 <br/>  
   
 # <u> :bulb: `June` </u>   
   
-###  [ 1- Linux Kernel Mentorship Programlink ](https://wiki.linuxfoundation.org/lkmp)
+###  1- [ Linux Kernel Mentorship Programlink ](https://wiki.linuxfoundation.org/lkmp)
   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.  
   
-###  [ 2- PClub Summer Of Code ](http://pclubsummerofcode.in)  
+###  2- [ PClub Summer Of Code ](http://pclubsummerofcode.in)  
 >- PClub Summer of Code is the 2 month long Open Source program during summers conducted by Programming Club, UIET, with an aim to help beginners get started with Open Source Development while encouraging diversity.  
 	  PSoC is targeted at audience who want to dwell in OpenSource Development as well as who are already into FOSS development. This program will help students for other opensource programs like Gsoc, Outreachy, etc. 
    
-  ### [ 3- Summer ISCAS Open Source Promotion Plan ](https://summer.iscas.ac.cn/)
+  ### 3- [ Summer ISCAS Open Source Promotion Plan ](https://summer.iscas.ac.cn/)
   >- Open Source Promotion Plan is 3 month long Open Source Program during Summer conducted by ISCAS, China. having the aim of to encourages everyone to pay close attention to open source software and open source community, aiming to cultivate and explore more outstanding developers.
   >- This is a good alternative to Google Summer of Code.
  
@@ -127,7 +127,7 @@
   
 # <u> :bulb: `July` </u>  
   
-###  [ 1- Alibaba Summer of Code ](https://alibaba.github.io)  
+###  1- [ Alibaba Summer of Code ](https://alibaba.github.io)  
   >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.  
       On this exclusive developer journey, students will have the opportunity to: Participate in the top projects of the International Open Source Foundation, Get a fast pass of Alibaba Internship/recruitment.  
 
