@@ -1,5 +1,5 @@
 <div align="center">  
- <img width="600" height="300" src="https://user-images.githubusercontent.com/47811606/79039985-b8c63e00-7c02-11ea-83a7-a7a539d4facd.jpg"> 
+ <img width="600" height="300" src="https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/openhack_lead.png?itok=LcvO2uN7"> 
  <br/>
  
  # -- Open Source Projects & Hackathons --
@@ -187,11 +187,13 @@
   
 # <u> :bulb: `December` </u>    
   
-  ### 1- [ SIH (Smart India Hackathon) ](https://www.sih.gov.in)  [Linkedin](https://www.linkedin.com/company/smart-india-hackathon-2020/)    
+  ### 1- [ SIH (Smart India Hackathon) ](https://www.sih.gov.in)  ([Linkedin](https://www.linkedin.com/company/smart-india-hackathon-2020/))  
    >-   ***World’s Biggest Hackathon and Open Innovation model***, an initiative by Ministry of HRD 4th edition of highly successful.  
-	  Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India. >-   Be part of World’s biggest Open Innovation Movement Opportunity to work with some of the best talents in the country.
+	  Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India. 
+	  Be part of World’s biggest Open Innovation Movement Opportunity to work with some of the best talents in the country.
   
-### 2- [ KWoC (Kharagpur Winter of Code) ](https://kwoc.kossiitkgp.org)     				   					     	>- ***Kharagpur Winter of Code*** is a 5-week long online programme for students who are new to open source software development. The programme not only helps students to get involved in open-source, but also prepares them for many open-source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.  
+### 2- [ KWoC (Kharagpur Winter of Code) ](https://kwoc.kossiitkgp.org)     				   					     	   
+  >- ***Kharagpur Winter of Code*** is a 5-week long online programme for students who are new to open source software development. The programme not only helps students to get involved in open-source, but also prepares them for many open-source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.  
   
   ### 3- [ KDE Student Programs. ](https://season.kde.org/)      
   >- Focused on offering an opportunity to anyone (not just enrolled students) contributing to the KDE community, this is a program that is comparable to the well-known Google Summer of Code, with some special differences.  
