@@ -177,38 +177,31 @@
 
 <br/>  
   
-# <u> :red_car: `November` :trophy: </u>  
+# <u> `November` </u>  
   
-- ## :1st_place_medal: Hackathon  
+  ### 1- I_Hack (IIT-B) [Link](https://www.ecell.in/esummit/ihack/)     
+   >-   At ***I_Hack***, we bring together India’s best coders, developers, designers, innovators, creators and entrepreneurs of tomorrow. I_Hack is geared up for those who are passionate about building, designing and innovating. It is a 30 Hr event where the enthusiasts meet, develop and compete in the product prototyping competition.  
+       I_Hack comprises of 3 parallel tracks : **BLOCKCHAIN TRACK**, **SOFTWARE TRACK**, **DATA TRACK**.  
+      
+<br/>  
   
-	### 1- I_Hack (IIT-B) [Link](https://www.ecell.in/esummit/ihack/)    
-		Registration Start   
-	>-   At ***I_Hack***, we bring together India’s best coders, developers, designers, innovators, creators and entrepreneurs of tomorrow. I_Hack is geared up for those who are passionate about building, designing and innovating. It is a 30 Hr event where the enthusiasts meet, develop and compete in the product prototyping competition.  
-	>- I_Hack comprises of 3 parallel tracks : **BLOCKCHAIN TRACK**, **SOFTWARE TRACK**, **DATA TRACK**.  
+# <u> `December` </u>    
   
-- ## :high_brightness: Open Source Event  
-    
-<br>  
-  
-# <u> :earth_americas: `December` :flight_departure: </u>  
-- ## :1st_place_medal: Hackathon  
-  
-	 ### 1- SIH (Smart India Hackathon) [Link](https://www.sih.gov.in)  [Linkedin](https://www.linkedin.com/company/smart-india-hackathon-2020/)    
-		 Registration Start  
+  ### 1- SIH (Smart India Hackathon) [Link](https://www.sih.gov.in)  [Linkedin](https://www.linkedin.com/company/smart-india-hackathon-2020/)    
    >-   ***World’s Biggest Hackathon and Open Innovation model***, an initiative by Ministry of HRD 4th edition of highly successful.  
-	 >-   Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India. >-   Be part of World’s biggest Open Innovation Movement Opportunity to work with some of the best talents in the country.
-- ## :high_brightness: Open Source Event  
+	  Smart India Hackathon initiative Involves 2 Lakh+ students with 57,000+ ideas from 2200+ institutions against 530+ problem statements provided by 120+ organizations from across India. >-   Be part of World’s biggest Open Innovation Movement Opportunity to work with some of the best talents in the country.
   
-	### 1- KWoC (Kharagpur Winter of Code)  [Link](https://kwoc.kossiitkgp.org)     					         	
-		Application start
-	>- ***Kharagpur Winter of Code*** is a 5-week long online programme for students 				who are new to open source software development. The programme not only helps students to get involved in open-source, but also prepares them for many open-source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.  
+### 2- KWoC (Kharagpur Winter of Code)  [Link](https://kwoc.kossiitkgp.org)     					         	
+>- ***Kharagpur Winter of Code*** is a 5-week long online programme for students who are new to open source software development. The programme not only helps students to get involved in open-source, but also prepares them for many open-source summer programmes; Google Summer of Code being one of them. The program is hosted by ***Kharagpur Open Source Society*** an independent student group at IIT Kharagpur, but is open to students of any university.  
   
-  ### 2- KDE Student Programs.  [Link](https://season.kde.org/)      
+  ### 3- KDE Student Programs.  [Link](https://season.kde.org/)      
   >- Focused on offering an opportunity to anyone (not just enrolled students) contributing to the KDE community, this is a program that is comparable to the well-known Google Summer of Code, with some special differences.  
-	 >- A key difference is that [SoK](https://community.kde.org/SoK) projects are not limited to code-focused work, but any that benefit our community. For instance, projects can be about documentation, reports, translation, system administration, web and other types of work including code as well.  
-  ### 3- 24 Pull Requests [Link](https://24pullrequests.com/about)      
-	 >- ***24 Pull Requests*** goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides [guides for contributing](https://24pullrequests.com/contributing) and promotes good contributions submitted each day.  
-	>- The idea is simple: 'Send 24 pull requests between December 1st and December 24th', encouraging contributors to give back to open source projects with little gifts of code throughout December.  <hr>  
+     A key difference is that [SoK](https://community.kde.org/SoK) projects are not limited to code-focused work, but any that benefit our community. For instance, projects can be about documentation, reports, translation, system administration, web and other types of work including code as well.  
+  
+  ### 4- 24 Pull Requests [Link](https://24pullrequests.com/about)      
+ >- ***24 Pull Requests*** goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides [guides for contributing](https://24pullrequests.com/contributing) and promotes good contributions submitted each day.  
+ The idea is simple: 'Send 24 pull requests between December 1st and December 24th', encouraging contributors to give back to open source projects with little gifts of code throughout December.  <hr>  
 
-<br>  
+<br/>  
 
+## Happy Contributing!
