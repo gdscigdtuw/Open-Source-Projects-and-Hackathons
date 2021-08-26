@@ -7,7 +7,7 @@
 
 <br/>
 
-# <u> `January` </u> 
+# <u> :bulb:`January` </u> 
 
  ### 1- [ Google Summer of Code ](https://summerofcode.withgoogle.com)
    >- ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.  
@@ -27,7 +27,7 @@
   
 <br/>
 
-# <u> `February` </u> 
+# <u> :bulb: `February` </u> 
 
  ### 1- STEP(Google) [Link](https://careers.google.com/students/engineering-and-technical-internships/)      
    >- ***STEP*** program is a developmental opportunity for ***first- and second-year undergraduate students*** with a passion for technology—especially students from historically underrepresented groups in the field.  
@@ -43,11 +43,11 @@
      
   ### 4- Red Hat Open Source Contest [Link](https://research.redhat.com/red-hat-open-source-contest/)  
   >-  ***Red Hat Open Source Contest*** is a competition for students during which we want to show students how easy it is to participate in open source         projects. Students can also get feedback on their code and get it included in a real project. By participating in the Red Hat Open Source Contest         students can win nice prizes.  
-	     Exceptional participants may receive offers for an internship at Red Hat. The overall contest winner receives an e-shop coupon worth 10,000 CZK  
+	 Exceptional participants may receive offers for an internship at Red Hat. The overall contest winner receives an e-shop coupon worth 10,000 CZK  
 	 
  <br/>  
 
-# <u> `March` </u>  
+# <u> :bulb: `March` </u>  
   
 ###  1- Codess [Link](https://www.codess.net/about-codess/) 
    >- ***Codess*** is a community for female coders initiated by Microsoft and was established to explore ways to promote gender diversity in the engineering field. Since its inception in 2013 in London, Codess has been inspiring women in engineering and helping them achieve their professional goals.  
@@ -73,7 +73,7 @@
 
 <br/>  
   
-# <u> `April` </u>  
+# <u> :bulb: `April` </u>  
  
 ###  1- RARE Technologies Student Incubator Programme  [Link](https://rare-technologies.com/incubator/#details) 
   >- Our student Incubator offers a unique mix of academic mentorship, hand-on project work and technical training. It is a highly selective program where you will be mentored by an industry expert as you develop a pragmatic solution to a real-world problem using machine learning.  
@@ -87,7 +87,7 @@
   
 <br/>  
   
-# <u> `May` </u>  
+# <u> :bulb: `May` </u>  
   
 ###  1- Season of Docs [Link](https://developers.google.com/season-of-docs)
   >- ***Google Season of Docs*** is a program giving technical writers an opportunity to contribute to open source projects, by paying them a three month stipend and facilitating connections between writers and projects. As a platform that’s all about supporting the open source community, we think this is fantastic, because a lot of open source projects really need documentation help.  
@@ -110,7 +110,7 @@
 
 <br/>  
   
-# <u> `June` </u>   
+# <u> :bulb: `June` </u>   
   
 ###  1- Linux Kernel Mentorship Programlink [Link](https://wiki.linuxfoundation.org/lkmp)
   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.  
@@ -125,7 +125,7 @@
  
 <br/>  
   
-# <u> `July` </u>  
+# <u> :bulb: `July` </u>  
   
 ###  1- Alibaba Summer of Code [Link](https://alibaba.github.io)  
   >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.  
@@ -133,7 +133,7 @@
 
 <br/>  
   
-# <u> `August` </u>  
+# <u> :bulb: `August` </u>  
   
 ### 1- InOut Hackathon  [Link](https://hackinout.co)
    >- ***InOut*** prides itself on being India’s biggest community hackathon.  
@@ -141,7 +141,7 @@
 
 <br/>  
   
-# <u> `September` </u>  
+# <u> :bulb: `September` </u>  
   
 ### 1- CodeHeat Coding Contest of FOSSASIA  [Link](https://codeheat.org)  
   >- In the ***Heat of the Code*** is a coding contest for [FOSSASIA projects on GitHub](https://github.com/fossasia/).    
@@ -158,7 +158,7 @@
  
 <br/>  
    
-# <u> `October` </u>       
+# <u> :bulb: `October` </u>       
       
   ### 1- Hacktoberfest [Link](https://hacktoberfest.digitalocean.com)  
    >- ***Hacktoberfest*** is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.  
@@ -177,7 +177,7 @@
 
 <br/>  
   
-# <u> `November` </u>  
+# <u> :bulb: `November` </u>  
   
   ### 1- I_Hack (IIT-B) [Link](https://www.ecell.in/esummit/ihack/)     
    >-   At ***I_Hack***, we bring together India’s best coders, developers, designers, innovators, creators and entrepreneurs of tomorrow. I_Hack is geared up for those who are passionate about building, designing and innovating. It is a 30 Hr event where the enthusiasts meet, develop and compete in the product prototyping competition.  
@@ -185,7 +185,7 @@
       
 <br/>  
   
-# <u> `December` </u>    
+# <u> :bulb: `December` </u>    
   
   ### 1- SIH (Smart India Hackathon) [Link](https://www.sih.gov.in)  [Linkedin](https://www.linkedin.com/company/smart-india-hackathon-2020/)    
    >-   ***World’s Biggest Hackathon and Open Innovation model***, an initiative by Ministry of HRD 4th edition of highly successful.  
@@ -200,8 +200,12 @@
   
   ### 4- 24 Pull Requests [Link](https://24pullrequests.com/about)      
  >- ***24 Pull Requests*** goal is to encourage contribution to open source projects during December. The site suggests open projects, highlights tickets that are good for new contributors, provides [guides for contributing](https://24pullrequests.com/contributing) and promotes good contributions submitted each day.  
- The idea is simple: 'Send 24 pull requests between December 1st and December 24th', encouraging contributors to give back to open source projects with little gifts of code throughout December.  <hr>  
+ The idea is simple: 'Send 24 pull requests between December 1st and December 24th', encouraging contributors to give back to open source projects with little gifts of code throughout December.  
 
 <br/>  
 
-## Happy Contributing!
+<div align="center">
+	 <hr> 
+	<br/>
+	Happy Contributing! ♥️
+</div>
