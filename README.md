@@ -7,7 +7,7 @@
 
 <br/>
 
-# <u> :bulb:`January` </u> 
+# <u> :woman_technologist: `January` </u> 
 
  ### 1- [ Google Summer of Code ](https://summerofcode.withgoogle.com)
    >- ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.  
@@ -27,7 +27,7 @@
   
 <br/>
 
-# <u> :bulb: `February` </u> 
+# <u> :woman_technologist: `February` </u> 
 
  ### 1- [ STEP(Google) ](https://careers.google.com/students/engineering-and-technical-internships/)      
    >- ***STEP*** program is a developmental opportunity for ***first- and second-year undergraduate students*** with a passion for technology—especially students from historically underrepresented groups in the field.  
@@ -47,7 +47,7 @@
 	 
  <br/>  
 
-# <u> :bulb: `March` </u>  
+# <u> :woman_technologist: `March` </u>  
   
 ###  1- [ Codess ](https://www.codess.net/about-codess/) 
    >- ***Codess*** is a community for female coders initiated by Microsoft and was established to explore ways to promote gender diversity in the engineering field. Since its inception in 2013 in London, Codess has been inspiring women in engineering and helping them achieve their professional goals.  
@@ -73,7 +73,7 @@
 
 <br/>  
   
-# <u> :bulb: `April` </u>  
+# <u> :woman_technologist: `April` </u>  
  
 ###  1- [ RARE Technologies Student Incubator Programme ](https://rare-technologies.com/incubator/#details) 
   >- Our student Incubator offers a unique mix of academic mentorship, hand-on project work and technical training. It is a highly selective program where you will be mentored by an industry expert as you develop a pragmatic solution to a real-world problem using machine learning.  
@@ -87,7 +87,7 @@
   
 <br/>  
   
-# <u> :bulb: `May` </u>  
+# <u> :woman_technologist: `May` </u>  
   
 ###  1- [ Season of Docs ](https://developers.google.com/season-of-docs)
   >- ***Google Season of Docs*** is a program giving technical writers an opportunity to contribute to open source projects, by paying them a three month stipend and facilitating connections between writers and projects. As a platform that’s all about supporting the open source community, we think this is fantastic, because a lot of open source projects really need documentation help.  
@@ -110,7 +110,7 @@
 
 <br/>  
   
-# <u> :bulb: `June` </u>   
+# <u> :woman_technologist: `June` </u>   
   
 ###  1- [ Linux Kernel Mentorship Programlink ](https://wiki.linuxfoundation.org/lkmp)
   >- The  [Linux Kernel Mentorship Program](https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing "https://drive.google.com/file/d/1_P70rjCfiLq6PkqxTbhF0_y0bcA-Ryj-/view?usp=sharing")  offers a structured remote learning opportunity to aspiring Linux Kernel developers. Experienced Linux Kernel developers and maintainers mentor volunteer mentees and help them become contributors to the Linux Kernel.  
@@ -125,7 +125,7 @@
  
 <br/>  
   
-# <u> :bulb: `July` </u>  
+# <u> :woman_technologist: `July` </u>  
   
 ###  1- [ Alibaba Summer of Code ](https://alibaba.github.io)  
   >- ***Alibaba Summer of Code*** is a global program focused on engaging students directly into open source software development. Under the guidance of the mentor in the Alibaba open source project, students experience the software development in the real world.  
@@ -133,7 +133,7 @@
 
 <br/>  
   
-# <u> :bulb: `August` </u>  
+# <u> :woman_technologist: `August` </u>  
   
 ### 1- [ InOut Hackathon ](https://hackinout.co)
    >- ***InOut*** prides itself on being India’s biggest community hackathon.  
@@ -141,7 +141,7 @@
 
 <br/>  
   
-# <u> :bulb: `September` </u>  
+# <u> :woman_technologist: `September` </u>  
   
 ### 1- [ CodeHeat Coding Contest of FOSSASIA ](https://codeheat.org)  
   >- In the ***Heat of the Code*** is a coding contest for [FOSSASIA projects on GitHub](https://github.com/fossasia/).    
@@ -158,7 +158,7 @@
  
 <br/>  
    
-# <u> :bulb: `October` </u>       
+# <u> :woman_technologist: `October` </u>       
       
   ### 1- [ Hacktoberfest ](https://hacktoberfest.digitalocean.com)  
    >- ***Hacktoberfest*** is a month-long celebration of open source software run by DigitalOcean and DEV. Hacktoberfest is open to everyone in our global community. To participate, four pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.  
@@ -177,7 +177,7 @@
 
 <br/>  
   
-# <u> :bulb: `November` </u>  
+# <u> :woman_technologist: `November` </u>  
   
   ### 1- [ I_Hack (IIT-B) ](https://www.ecell.in/esummit/ihack/)     
    >-   At ***I_Hack***, we bring together India’s best coders, developers, designers, innovators, creators and entrepreneurs of tomorrow. I_Hack is geared up for those who are passionate about building, designing and innovating. It is a 30 Hr event where the enthusiasts meet, develop and compete in the product prototyping competition.  
@@ -185,7 +185,7 @@
       
 <br/>  
   
-# <u> :bulb: `December` </u>    
+# <u> :woman_technologist: `December` </u>    
   
   ### 1- [ SIH (Smart India Hackathon) ](https://www.sih.gov.in)  ([Linkedin](https://www.linkedin.com/company/smart-india-hackathon-2020/))  
    >-   ***World’s Biggest Hackathon and Open Innovation model***, an initiative by Ministry of HRD 4th edition of highly successful.  
